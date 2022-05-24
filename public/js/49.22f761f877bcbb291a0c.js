@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[49],{1469:function(e,n,t){"use strict";t.r(n);var i={name:"indexElectronicBilling"},r=t(2),a=Object(r.a)(i,(function(){var e=this.$createElement;return(this._self._c||e)("router-view")}),[],!1,null,"6e4ea0ea",null);n.default=a.exports}}]);

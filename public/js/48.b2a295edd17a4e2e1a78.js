@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[48],{1488:function(e,n,t){"use strict";t.r(n);var r={name:"indexAuth"},u=t(2),c=Object(u.a)(r,(function(){var e=this.$createElement;return(this._self._c||e)("router-view")}),[],!1,null,"3673f7c8",null);n.default=c.exports}}]);

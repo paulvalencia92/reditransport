@@ -1,0 +1,23 @@
+.clickeable {
+    cursor: pointer;
+}
+
+.m-28 {
+    margin: 20px;
+}
+
+.btn-xs {
+    padding: 0.25rem 0.3rem!important;
+    font-size: 0.71137rem;
+    line-height: 1.5;
+    border-radius: 0.2rem;
+}
+.map-container{
+    top: 0;
+    width: 100%;
+}
+.search-routes{
+    position: absolute;
+    z-index: 99;
+    width: 100%;
+}

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[66],{1464:function(e,n,t){"use strict";t.r(n);var r={name:"indexPursh"},s=t(2),u=Object(s.a)(r,(function(){var e=this.$createElement;return(this._self._c||e)("router-view")}),[],!1,null,"4261a717",null);n.default=u.exports}}]);
